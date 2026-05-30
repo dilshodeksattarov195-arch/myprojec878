@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperftringify",
+        "uuid": 7606114,
+        "checksum": "umw7lj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
